@@ -42,9 +42,9 @@
         regular API packages as bundles.
     </description>
     <scm>
-        <connection>scm:svn:http://svn.apache.org/repos/asf/sling/trunk/bundles/extensions/framework-extension-xml</connection>
-        <developerConnection>scm:svn:https://svn.apache.org/repos/asf/sling/trunk/bundles/extensions/framework-extension-xml</developerConnection>
-        <url>http://svn.apache.org/viewvc/sling/trunk/bundles/extensions/framework-extension-xml</url>
+        <connection>scm:git:https://gitbox.apache.org/repos/asf/sling-org-apache-sling-fragment-xml.git</conncetion>
+        <developerConnection>scm:git:https://gitbox.apache.org/repos/asf/sling-org-apache-sling-fragment-xml.git</developerConnection>
+        <url>https://gitbox.apache.org/repos/asf?p=sling-org-apache-sling-fragment-xml.git</url>
     </scm>
 
     <properties>
